@@ -14,7 +14,7 @@ https://drive.google.com/file/d/1KtL-Jp53hLdk4F_bBmsck1H1sVI9uAP0/view?usp=shari
 
 ## Demo Video
 
-Insert gif or link to demo 
+https://www.youtube.com/watch?v=X-7KMUGSyGc&ab_channel=khushisharma
 
 
 ## Queries 
