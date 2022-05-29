@@ -38,11 +38,8 @@ Downloading files provided above and open them with Power BI. This will open the
 
 
 ## Screenshots
-
-![snap 1](https://user-images.githubusercontent.com/92581650/170882323-cfd56a05-f0ba-47fd-86b6-2102e4cd988e.png)
-![snap 2](https://user-images.githubusercontent.com/92581650/170882329-ebd7eb40-53cc-4a73-92a8-54995cf668e9.png)
-![snap 3](https://user-images.githubusercontent.com/92581650/170882363-4dd1a16f-73d7-4758-963f-ef4c8d98ec8d.png)
-![snap 4](https://user-images.githubusercontent.com/92581650/170882373-a3a1d574-8d66-44b9-b031-d21441b75354.png)
-
-50/170882336-a9740f4a-7855-4522-9a6c-5f63ad938f6f.png)
+![snap 1](https://user-images.githubusercontent.com/92581650/170882448-f85265ca-70d9-42ad-bafc-bee70d931cd0.png)
+![snap 2](https://user-images.githubusercontent.com/92581650/170882455-1b97f83a-2860-4dab-ab19-ece00ce11e59.png)
+![snap 3](https://user-images.githubusercontent.com/92581650/170882457-f2f6315b-ddf8-4280-84e4-01fc16ff03b2.png)
+![snap 5](https://user-images.githubusercontent.com/92581650/170882460-d65d5df5-5f60-4034-ba88-e3d42f53e8b3.png)
 
