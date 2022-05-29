@@ -34,7 +34,15 @@ https://www.youtube.com/watch?v=X-7KMUGSyGc&ab_channel=khushisharma
 
 ## Installation:
 Download Power BI desktop on your computer. 
-Downloading files provided above and open them with Power BI. This will open the files on the power BI desktop, to open them in the workspace directly click on the link: https://app.powerbi.com/groups/me/reports/12b79748-271d-437c-9dd3-2d9feb53a57c/ReportSection
+Download files provided above and open them with Power BI Desktop.
+In order to open the files in web follow the steps. 
+1) Click on publish
+2) Select Workspace, then click on Got it
+It will open the Power BI files in web browser (using Power BI Workspace on web)
+
+To open directly to the web: link: https://app.powerbi.com/groups/me/reports/12b79748-271d-437c-9dd3-2d9feb53a57c/ReportSection
+
+
 
 
 ## Screenshots
