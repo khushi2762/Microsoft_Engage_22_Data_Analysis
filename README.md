@@ -38,10 +38,11 @@ Downloading files provided above and open them with Power BI. This will open the
 
 
 ## Screenshots
-![snap 1](https://user-images.githubusercontent.com/92581650/170882269-1606535d-e26f-4ee3-8af3-18c54d94497c.png)
-![snap 2](https://user-images.githubusercontent.com/9![snap 3](https://user-images.githubusercontent.com/92581650/170882291-b0dcb8f8-1a20-472d-97dd-cdae484d2e25.png)
-2581650/170882283-81b2ebeb-a3c2-42cd-b477-3ada552e58c4.png)
-![snap 4](https://user-images.githubusercontent.com/92581650/170882299-98635c31-9fed-40a7-8535-34bb58d47ddf.png)
 
-![App Screenshot](https://drive.google.com/file/d/1lf1jh1JY2Ow6wBvwAZCnhnobdojgUdao/view?usp=sharing)
+![snap 1](https://user-images.githubusercontent.com/92581650/170882323-cfd56a05-f0ba-47fd-86b6-2102e4cd988e.png)
+![snap 2](https://user-images.githubusercontent.com/92581650/170882329-ebd7eb40-53cc-4a73-92a8-54995cf668e9.png)
+![snap 3](https://user-images.githubusercontent.com/92581650/170882363-4dd1a16f-73d7-4758-963f-ef4c8d98ec8d.png)
+![snap 4](https://user-images.githubusercontent.com/92581650/170882373-a3a1d574-8d66-44b9-b031-d21441b75354.png)
+
+50/170882336-a9740f4a-7855-4522-9a6c-5f63ad938f6f.png)
 
