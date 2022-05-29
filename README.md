@@ -38,6 +38,10 @@ Downloading files provided above and open them with Power BI. This will open the
 
 
 ## Screenshots
+![snap 1](https://user-images.githubusercontent.com/92581650/170882269-1606535d-e26f-4ee3-8af3-18c54d94497c.png)
+![snap 2](https://user-images.githubusercontent.com/9![snap 3](https://user-images.githubusercontent.com/92581650/170882291-b0dcb8f8-1a20-472d-97dd-cdae484d2e25.png)
+2581650/170882283-81b2ebeb-a3c2-42cd-b477-3ada552e58c4.png)
+![snap 4](https://user-images.githubusercontent.com/92581650/170882299-98635c31-9fed-40a7-8535-34bb58d47ddf.png)
 
 ![App Screenshot](https://drive.google.com/file/d/1lf1jh1JY2Ow6wBvwAZCnhnobdojgUdao/view?usp=sharing)
 
