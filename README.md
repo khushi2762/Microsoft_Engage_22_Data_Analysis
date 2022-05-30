@@ -39,14 +39,14 @@ https://www.youtube.com/watch?v=X-7KMUGSyGc&ab_channel=khushisharma
 
 
 ## 📌Installation:
-Download Power BI desktop on your computer. 
-Download files provided above and open them with Power BI Desktop.
-In order to open the files in web follow the steps. 
-1) Click on publish
-2) Select Workspace, then click on Got it
-It will open the Power BI files in web browser (using Power BI Workspace on web)
+To open directly on the web: https://app.powerbi.com/reportEmbed?reportId=12b79748-271d-437c-9dd3-2d9feb53a57c&autoAuth=true&ctid=3ad87f0e-1f93-41bd-94f4-82c37d971c88&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLWluZGlhLWNlbnRyYWwtYS1wcmltYXJ5LXJlZGlyZWN0LmFuYWx5c2lzLndpbmRvd3MubmV0LyJ9
 
-To open directly to the web: link: https://app.powerbi.com/reportEmbed?reportId=12b79748-271d-437c-9dd3-2d9feb53a57c&autoAuth=true&ctid=3ad87f0e-1f93-41bd-94f4-82c37d971c88&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLWluZGlhLWNlbnRyYWwtYS1wcmltYXJ5LXJlZGlyZWN0LmFuYWx5c2lzLndpbmRvd3MubmV0LyJ9
+If it doesn't open in any case, follow these steps: 
+1) Download Power BI desktop on your computer. 
+2) Download files provided above and open them with Power BI Desktop.
+3) In order to open the files in web follow the steps. 
+4) Click on file > Embed Report > Open using Website or portal /or/ Publish to web 
+
 
 ## 📌Future Scope:
 To make more reports using Power BI showcasing more comaprisons.
