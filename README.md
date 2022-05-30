@@ -44,8 +44,10 @@ To open directly on the web: https://app.powerbi.com/reportEmbed?reportId=12b797
 If it doesn't open in any case, follow these steps: 
 1) Download Power BI desktop on your computer. 
 2) Download files provided above and open them with Power BI Desktop.
-3) In order to open the files in web follow the steps. 
-4) Click on file > Embed Report > Open using Website or portal /or/ Publish to web 
+3) Click on Publish > Workspace > got it (It will open Power BI workspace) 
+4) In order to open the project, follow the steps further:
+5) Click on file > Embed Report > Open using Website or portal /or/ Publish to web 
+6) It will open the project on web!
 
 
 ## 📌Future Scope:
