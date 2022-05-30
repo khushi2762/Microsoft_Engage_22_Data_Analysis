@@ -49,7 +49,7 @@ It will open the Power BI files in web browser (using Power BI Workspace on web)
 To open directly to the web: link: https://app.powerbi.com/groups/me/reports/12b79748-271d-437c-9dd3-2d9feb53a57c/ReportSection
 
 ## 📌Future Scope:
-To make more reports using Power BI shwocasing more comaprisons.
+To make more reports using Power BI showcasing more comaprisons.
 
 
 ## 📌Screenshots
