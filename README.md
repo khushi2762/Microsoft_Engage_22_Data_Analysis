@@ -46,7 +46,7 @@ In order to open the files in web follow the steps.
 2) Select Workspace, then click on Got it
 It will open the Power BI files in web browser (using Power BI Workspace on web)
 
-To open directly to the web: link: https://app.powerbi.com/groups/me/reports/12b79748-271d-437c-9dd3-2d9feb53a57c/ReportSection
+To open directly to the web: link: https://app.powerbi.com/reportEmbed?reportId=12b79748-271d-437c-9dd3-2d9feb53a57c&autoAuth=true&ctid=3ad87f0e-1f93-41bd-94f4-82c37d971c88&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLWluZGlhLWNlbnRyYWwtYS1wcmltYXJ5LXJlZGlyZWN0LmFuYWx5c2lzLndpbmRvd3MubmV0LyJ9
 
 ## 📌Future Scope:
 To make more reports using Power BI showcasing more comaprisons.
