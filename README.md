@@ -18,7 +18,7 @@ https://www.youtube.com/watch?v=X-7KMUGSyGc&ab_channel=khushisharma
 
 ## 📌Features 
 1. Selecting the type of car and having the list of all the cars available under that type, a customer can also compare different features of the cars by looking at the right side table.
-2. If the customer wants to have a look into the price ranging, he can select the type of car > drill through the page showing cars seperated by different price ranges along with the variants available nder the same price range ex. petrol, diesel or CNG.
+2. If the customer wants to have a look into the price ranging, he can select the type of car > drill through the page showing cars seperated by different price ranges along with the variants available under the same price range ex. petrol, diesel or CNG.
 3. If a customer wants some specific features, he can randomly choose from the "take cars by your choices sections" by choosing 2 or more features and drilling through variety of cars.
 
 
