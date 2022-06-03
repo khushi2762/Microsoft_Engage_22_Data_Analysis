@@ -58,7 +58,8 @@ To make more reports using Power BI showcasing more comaprisons.
 ![snap 1](https://user-images.githubusercontent.com/92581650/170882448-f85265ca-70d9-42ad-bafc-bee70d931cd0.png)
 ![snap 2](https://user-images.githubusercontent.com/92581650/170882455-1b97f83a-2860-4dab-ab19-ece00ce11e59.png)
 ![snap 3](https://user-images.githubusercontent.com/92581650/170882457-f2f6315b-ddf8-4280-84e4-01fc16ff03b2.png)
-![snap 5](https![snap 6![snap 6](https://user-images.githubusercontent.com/92581650/171859593-d28d3a15-7db3-4872-a935-dfaf27712d6c.png)
+![snap 6](https![snap 6![snap 6](https://user-images.githubusercontent.com/92581650/171859593-d28d3a15-7db3-4872-a935-dfaf27712d6c.png)
+![snap 5](https://user-images.githubusercontent.com/92581650/171859849-9c812beb-eb38-4e2a-8466-2c9d2b7dd568.png)
 
 
 
